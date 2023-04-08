@@ -1,0 +1,1 @@
+{"name":"Local: Aisehi","url":"c:\\Users\\hp\\Desktop\\VSCP\\Aisehi.cpp","tests":[{"id":1677581718795,"input":"3\n1 2\n4 2\n3 4","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\VSCP\\Aisehi.cpp","group":"local","local":true}
